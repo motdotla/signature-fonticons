@@ -15,7 +15,7 @@
   font-style: 'normal';
   font-weight: 'normal';
   src: url('https://github.com/signatureio/signature-fonticons/raw/master/fonts/fontawesome/fontawesome-webfont.eot');
-       src: url('https://github.com/signatureio/signature-fonticons/raw/master/fonts/fontawesome/fontawesome-webfont.eot?#iefix') format('eot'), 
+  src: url('https://github.com/signatureio/signature-fonticons/raw/master/fonts/fontawesome/fontawesome-webfont.eot?#iefix') format('eot'), 
   url('https://github.com/signatureio/signature-fonticons/raw/master/fonts/fontawesome/fontawesome-webfont.woff') format('woff'), 
   url('https://github.com/signatureio/signature-fonticons/raw/master/fonts/fontawesome/fontawesome-webfont.ttf') format('truetype'), 
   url('https://github.com/signatureio/signature-fonticons/raw/master/fonts/fontawesome/fontawesome-webfont.svg#FontAwesomeRegular') format('svg');
